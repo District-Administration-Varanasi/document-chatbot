@@ -21,5 +21,5 @@ To run the project, use the command:
 
   ```bash
    streamlit run app.py
-    ```
+  ```
 
