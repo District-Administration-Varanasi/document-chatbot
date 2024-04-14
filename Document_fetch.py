@@ -32,7 +32,7 @@ def find_and_download_pdfs(base_url):
         filename = os.path.join('pdf_downloads', f'doc{doc_counter}.pdf')
         download_pdf(pdf_url, filename)
         doc_counter += 1
-        time.sleep(5)  \
+        time.sleep(5)
 
 website_url = "https://shasanadesh.up.gov.in/"
 find_and_download_pdfs(website_url)
