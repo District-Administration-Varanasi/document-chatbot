@@ -19,7 +19,7 @@ Made by: [Aleen Dhar](https://www.linkedin.com/in/aleendhar/)
 
 To run the project, use the command:
 
-    ```bash
-     streamlit run app.py
+  ```bash
+   streamlit run app.py
     ```
 
