@@ -1,0 +1,19 @@
+bs4
+requests
+pandas
+lxml
+langchain-community 
+langchain 
+langchain-pinecone 
+pinecone-client 
+tqdm 
+python-dotenv
+pypdf
+googletrans==4.0.0-rc1
+sentence-transformers
+flask
+streamlit
+google-generativeai 
+langchain-google-genai
+
+-e .
